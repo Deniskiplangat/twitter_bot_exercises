@@ -59,7 +59,7 @@ const main = async()=>{
                     elementHandles.map(handle=>handle.jsonValue())  
                  );
                 
-                 urls.forEach(item=>mySet.add(item))
+                 urls.forEach(item=>mySet.add(item));
                 console.log(urls);
 
                  previousHeight = await page.evaluate('document.body.scrollHeight');
