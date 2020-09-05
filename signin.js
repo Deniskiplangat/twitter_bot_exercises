@@ -1,7 +1,7 @@
 const puppeteer = require('puppeteer');
 
 const SECRET_EMAIL = 'sir_paa'
-const SECRET_PASSWORD = '0740756210'
+const SECRET_PASSWORD = 'password'
 
 
 
