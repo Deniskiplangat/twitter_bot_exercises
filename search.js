@@ -5,7 +5,7 @@
 const puppeteer = require('puppeteer');
 
 const SECRET_EMAIL = 'sir_paa'//enter your username
-const SECRET_PASSWORD = '0740756210'//enter your password
+const SECRET_PASSWORD = 'password'//enter your password
 const TWEET_DATA = 'this is your third tweet'//your tweet data
 const SEARCH_DATA = 'coding'
 
